@@ -8,17 +8,18 @@
 
 [骑行装备](EQUIPMENT.MD)
 -------
+![equi](pics/equi.jpg)
 
 [日用品](COMMODITY.MD)
 -------
+
+[景点驻留推荐](SCENIC.MD)
+-----
 
 [周边文化](CULTURE.MD)
 -----
 
 [骑行注意事项](CYCLING.MD)
------
-
-[景点驻留推荐](SCENIC.MD)
 -----
 
 [全程预算](BUDGET.MD)
